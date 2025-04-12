@@ -1,0 +1,4 @@
+hello abc world
+this is an abc example
+abc is replaced with ABC
+test abc again
